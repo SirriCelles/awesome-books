@@ -28,6 +28,7 @@
     "stylelint-scss": "^3.21.0"
   },
   "dependencies": {
+    "@hint/utils-dom": "^2.1.13",
     "luxon": "^2.4.0"
   }
 }
