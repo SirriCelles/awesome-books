@@ -12,13 +12,9 @@ body {
   width: 80%;
   margin: 1% auto;
   height: 100vh;
-  /* background-color: #f7f7f7; */
   padding: 0 1.2rem;
 }
 
-header {
-  margin-bottom: 20px;
-}
 
 footer {
   position: fixed;
@@ -183,4 +179,8 @@ input {
 
 .contact-info-list-items {
   list-style-type: circle;
+}
+
+#dateTime {
+  color: rgb(127, 138, 255);
 }

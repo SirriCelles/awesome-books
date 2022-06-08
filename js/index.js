@@ -1,5 +1,6 @@
 import { bookStore } from './modules/bookObj.js';
 import { loadHTML } from './modules/lists.js';
+import { DateTime } from './modules/luxon.min.js';
 
 const inputTitle = document.getElementById('book-title');
 const inputAuthor = document.getElementById('book-author');
@@ -17,6 +18,9 @@ const addBooksPage = document.querySelector('#add-books');
 const contactPage = document.querySelector('#contact-info-section');
 
 const listWrapper = document.getElementById('book-list-wrapper');
+
+document.querySelector('#dateTime').textContent = DateTime.now();
+console.log(DateTime.now());
 
 addLink.addEventListener('click', () => {
   listBookPage.classList.add('display-none');
