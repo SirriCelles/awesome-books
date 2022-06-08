@@ -6,8 +6,6 @@ const inputAuthor = document.getElementById('book-author');
 
 const addBookBtn = document.getElementById('add-btn');
 
-const removeBtn = document.querySelectorAll('.removeBtn');
-
 const listLink = document.querySelector("a[href='#book-list-section']");
 
 const addLink = document.querySelector("a[href='#add-books']");
@@ -62,12 +60,12 @@ const updateBooks = () => {
 
 addBookBtn.addEventListener('click', updateBooks);
 
-removeBtn.forEach((item) => {
-  item.addEventListener('click', (ev) => {
+document.querySelector('body').addEventListener('click', (ev) => {
+  if (ev.target.classList.contains('removeBtn')) {
     const bookIndex = ev.target.getAttribute('data-book-index');
     bookStore.removeBook(bookIndex);
     setTimeout(() => {
       updateList();
     }, 500);
-  });
+  }
 });

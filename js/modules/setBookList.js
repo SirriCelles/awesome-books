@@ -1,14 +1,12 @@
 class BookList {
-  constructor() {
-    this.books = [];
-  }
+  #books;
 
   getBooks() {
     const tempBooks = JSON.parse(localStorage.getItem('bookStore'));
     if (Array.isArray(tempBooks)) {
-      this.books = tempBooks;
+      this.#books = tempBooks;
     }
-    return this.books;
+    return this.#books;
   }
 }
 

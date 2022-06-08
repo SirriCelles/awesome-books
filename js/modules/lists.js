@@ -9,7 +9,7 @@ class LoadHTML {
             <h5 class="book-items book-title">"${book.title}" by ${book.author}</h5>
             <button id="btn-${i}" data-book-index="${i}" type="button" class="removeBtn">
             Remove
-            <input type="hidden" value="${i}">
+            <input type="hidden" id="removeBtnId" value="${i}">
             </button>
           </div>
         </li>`;

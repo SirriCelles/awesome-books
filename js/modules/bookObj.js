@@ -25,6 +25,7 @@ class BookStore extends BookList {
   }
 
   removeBook(id) {
+    this.books = super.getBooks();
     if (this.books.length > 0) {
       this.books.splice(id, 1);
     }
