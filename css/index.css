@@ -5,6 +5,15 @@
 
 body {
   font-family: 'Times New Roman', Times, serif;
+
+}
+
+.container {
+  width: 80%;
+  margin: 1% auto;
+  height: 100vh;
+  /* background-color: #f7f7f7; */
+  padding: 0 1.2rem;
 }
 
 header {
@@ -13,7 +22,7 @@ header {
 
 footer {
   position: fixed;
-  width: 98%;
+  width: 77%;
   bottom: 1%;
   display: flex;
   justify-content: start;
