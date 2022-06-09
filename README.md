@@ -1,62 +1,41 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
-
-> Description the project.
-
-
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
+# Awesome Books
+It's a project of Awesome books: plain JavaScript with objects and ES6 Modules.
 
 ## Live Demo (if available)
 
 [Live Demo Link](https://livedemo.com)
 
+## Built With
+
+- HTML5
+- CSS3
+- JavaScript
+- Linter
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+- NodeJs, npm needs to be installed in system
+- For local project set up, run ``` git clone https://github.com/RitobrotoMukherjee/awesome-book-module-2.git ```
 
+## Install Linters
 
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- Run ``` npm install ```
 
 ## Authors
+👤 **Sirri Celles**
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Portfolio: [@Sirri](https://)
+- GitHub: [@Sirri](https://)
+- Twitter: [@Sirri](https://)
+- LinkedIn: [Sirri](https://)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+- Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -64,10 +43,10 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse: [View Site](https://www.microverse.org/)
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) licensed.
+
+
