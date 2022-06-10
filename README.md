@@ -5,7 +5,7 @@ It's a project of Awesome books: plain JavaScript with objects and ES6 Modules.
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link]([https://livedemo.com](https://sirricelles.github.io/awesome-books/))
 
 ## Built With
 
@@ -26,10 +26,9 @@ It's a project of Awesome books: plain JavaScript with objects and ES6 Modules.
 ## Authors
 👤 **Sirri Celles**
 
-- Portfolio: [@Sirri](https://)
-- GitHub: [@Sirri](https://)
-- Twitter: [@Sirri](https://)
-- LinkedIn: [Sirri](https://)
+- GitHub: [@Sirri](https://github.com/SirriCelles)
+- Twitter: [@Sirri](https://twitter.com/SirriCelles?t=fZl0blItFUQDC5vozH47nA&s=09)
+- LinkedIn: [Sirri](https://www.linkedin.com/in/sirricelles)
 
 ## 🤝 Contributing
 
