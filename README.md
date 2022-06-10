@@ -4,7 +4,7 @@ It's a project of Awesome books: plain JavaScript with objects and ES6 Modules.
 
 ## Live Demo (if available)
 
-[Live Demo Link]([https://livedemo.com](https://sirricelles.github.io/awesome-books/))
+[Live Demo Link](https://sirricelles.github.io/awesome-books/)
 
 ## Built With
 
