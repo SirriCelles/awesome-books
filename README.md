@@ -1,4 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Awesome Books
 It's a project of Awesome books: plain JavaScript with objects and ES6 Modules.
